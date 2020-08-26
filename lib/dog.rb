@@ -1,2 +1,3 @@
 classs Dog
+
 end
